@@ -65,3 +65,4 @@ try:
     print(f"Saved {len(sorted_students)} passing students to passing.txt")
 except Exception as e:
     print(f"Error writing to file: {e}")
+    alice is 1
